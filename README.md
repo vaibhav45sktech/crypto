@@ -156,7 +156,7 @@ WebSockets for ultra-fast live charts
 
 AI-based stock prediction (LSTM models)
 
-News sentiment scoring
+Scoring Sentiments new
 
 Crypto fear & greed index
 
