@@ -36,7 +36,7 @@ Compete with friends on leaderboards (Bonus feature)
 
 ☁️ Cloud Integration (Firebase)
 
-User login / signup
+User signup/ login
 
 Store portfolio & preferences
 
@@ -160,7 +160,7 @@ News sentiment scoring
 
 Crypto fear & greed index
 
-Alerts (Telegram, Email, SMS)
+Alerts (SMS, Telegram, Email)
 
 🤝 Contributing
 
